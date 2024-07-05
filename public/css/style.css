@@ -1,0 +1,36 @@
+#moviesList li {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #7b7272;
+    background-color: #0d0d14;
+}
+
+#moviesList li .addToFavourites {
+    margin-top: 10px;
+}
+#moviesList li #title{
+	color: white;
+	font-weight: bold;
+}
+#moviesList li #overview{
+	color: white;
+}
+
+#favouritesList li {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #7b7272;
+    background-color: #0d0d14;
+}
+
+
+#favouritesList li .addToFavourites {
+    margin-top: 10px;
+}
+#favouritesList li #title{
+	color: white;
+	font-weight: bold;
+}
+#favouritesList li #overview{
+	color: white;
+}
